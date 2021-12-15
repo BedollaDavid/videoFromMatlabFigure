@@ -1,5 +1,5 @@
 # videoFromMatlabFigure
-The .m file generates a video from animating a figure
+The .m file generates a video from animating a figure (See gif below).
 ### **What is this?**
 It is a script that animates a figure on Matlab, moreover you can save the animated figure as a video with arbitrary length time.
 ### **What do you need?**
