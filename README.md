@@ -15,6 +15,7 @@ It is a script that animates a figure on Matlab, moreover you can save the anima
 **Step 2:** Set the animation total time (in seconds).\
 **Step 3:** Verify if you want to save the animation as video (true or false).\
 **Step 4:** Run the script and let it to finish (write the name of the video when asked).\
-**Step 5:** Enjoy your animations.
+**Step 5:** Enjoy your animations.\
+[![View Generate video from Matlab figure on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103620-generate-video-from-matlab-figure)
 
 ![grab-landing-page](https://github.com/BedollaDavid/videoFromMatlabFigure/blob/main/GIT_cartesianTracking_VU39jv.gif)
